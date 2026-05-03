@@ -112,6 +112,6 @@ MIT License
 # 📧 联系方式
 GitHub: 13113
 
-项目地址: https://github.com/13113/topic_detection
+项目地址:[ https://github.com/13113/topic_detection](https://github.com/WZC-UESTC/Topic_detection-based-on-LDA/tree/master)
 
 # ⭐ 如果这个项目对你有帮助，欢迎给个 Star！
