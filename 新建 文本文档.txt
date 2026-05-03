@@ -1,0 +1,5 @@
+# 激活虚拟环境
+C:\Users\13113\topic_env\Scripts\activate
+
+# 运行程序
+python C:\Users\13113\Desktop\topic_detection\main.py
