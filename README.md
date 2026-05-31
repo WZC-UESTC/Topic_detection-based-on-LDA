@@ -103,6 +103,15 @@ topic_detection/
 
 <img width="1095" height="267" alt="屏幕截图 2026-05-03 194233" src="https://github.com/user-attachments/assets/907aaf9b-f03a-405d-8fba-e8cfab8f5390" />
 
+## 云端部署
+26.5.30 目前已将该项目打包上传到云主机,形成网页端。并启用pm2自动托管，可以实时访问
+由于云主机按量计费，访问截至2026/6/30
+地址：http://8.160.166.149:80
+<img width="2216" height="835" alt="屏幕截图 2026-05-30 183435" src="https://github.com/user-attachments/assets/8e25a9ba-2140-4d80-8b43-959d31e6c39e" />
+<img width="2488" height="333" alt="屏幕截图 2026-05-30 183055" src="https://github.com/user-attachments/assets/592687a0-aebf-4b3f-8ffc-b0cf9f793eff" />
+
+
+
 ## 🤝 贡献
 欢迎提交 Issue 和 Pull Request！
 
